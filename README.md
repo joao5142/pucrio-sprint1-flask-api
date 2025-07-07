@@ -42,6 +42,16 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     </li>
 </ul>
 
+
+<h4>Abrindo a documentação</h4>
+
+<ul>
+    <li>
+        Abrir o localhost na porta 5000 na rota / ou na rota /openapi
+    </li>
+</ul>
+
+
 <h2>🧑🏻‍ Autor</h2>
 <p>Feito por João paulo</p>
 <a href="mailto:joaopauloneto3687@gmail.com">
